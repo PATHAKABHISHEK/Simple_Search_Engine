@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        val letter = readLine()!!
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8029
+status: Solved
+record: -1

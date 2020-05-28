@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Problems-Board_game_basics__Game.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Problems-Board_game_basics__Game.iml" group="Simple_Search_Engine/Problems-Board_game_basics__Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Problems-Board_game_basics__Game_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Problems-Board_game_basics__Game_main.iml" group="Simple_Search_Engine/Problems-Board_game_basics__Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Problems-Board_game_basics__Game_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Problems-Board_game_basics__Game_test.iml" group="Simple_Search_Engine/Problems-Board_game_basics__Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cutting out the middle of a string/Problems-Cutting_out_the_middle_of_a_string.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cutting out the middle of a string/Problems-Cutting_out_the_middle_of_a_string.iml" group="Simple_Search_Engine/Problems-Cutting_out_the_middle_of_a_string" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cutting out the middle of a string/Problems-Cutting_out_the_middle_of_a_string_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cutting out the middle of a string/Problems-Cutting_out_the_middle_of_a_string_main.iml" group="Simple_Search_Engine/Problems-Cutting_out_the_middle_of_a_string" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cutting out the middle of a string/Problems-Cutting_out_the_middle_of_a_string_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cutting out the middle of a string/Problems-Cutting_out_the_middle_of_a_string_test.iml" group="Simple_Search_Engine/Problems-Cutting_out_the_middle_of_a_string" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Vowels/Problems-Vowels.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Vowels/Problems-Vowels.iml" group="Simple_Search_Engine/Problems-Vowels" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Vowels/Problems-Vowels_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Vowels/Problems-Vowels_main.iml" group="Simple_Search_Engine/Problems-Vowels" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Vowels/Problems-Vowels_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Vowels/Problems-Vowels_test.iml" group="Simple_Search_Engine/Problems-Vowels" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" group="Simple_Search_Engine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task.iml" group="Simple_Search_Engine/Simple_Search_Engine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_main.iml" group="Simple_Search_Engine/Simple_Search_Engine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_test.iml" group="Simple_Search_Engine/Simple_Search_Engine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Search_Engine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Search_Engine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Search_Engine/util" />
+    </modules>
+  </component>
+</project>

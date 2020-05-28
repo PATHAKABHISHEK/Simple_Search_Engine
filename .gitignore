@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine/task/build/
